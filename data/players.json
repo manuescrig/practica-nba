@@ -1,4 +1,4 @@
-﻿[
+[
 
     {
         "id": 1, "nombre": "Trae Young", "equipo": "Hawks", "posicion": "Base",
@@ -33,7 +33,7 @@
         "premios": []
     },
     {
-        "id": 6, "nombre": "Nic Claxton", "equipo": "Nets", "posicion": "PÃ­vot",
+        "id": 6, "nombre": "Nic Claxton", "equipo": "Nets", "posicion": "Pívot",
         "puntos_por_partido": 12.3,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png",
         "premios": []
@@ -59,7 +59,7 @@
         "premios": []
     },
     {
-        "id": 10, "nombre": "Nikola Vucevic", "equipo": "Bulls", "posicion": "PÃ­vot",
+        "id": 10, "nombre": "Nikola Vucevic", "equipo": "Bulls", "posicion": "Pívot",
         "puntos_por_partido": 16.5,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
         "premios": []
@@ -72,7 +72,7 @@
         "premios": []
     },
     {
-        "id": 12, "nombre": "Evan Mobley", "equipo": "Cavaliers", "posicion": "PÃ­vot",
+        "id": 12, "nombre": "Evan Mobley", "equipo": "Cavaliers", "posicion": "Pívot",
         "puntos_por_partido": 18.6,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
         "premios": ["DPOY"]
@@ -86,14 +86,14 @@
         "premios": []
     },
     {
-        "id": 14, "nombre": "Anthony Davis", "equipo": "Mavericks", "posicion": "Ala-PÃ­vot",
+        "id": 14, "nombre": "Anthony Davis", "equipo": "Mavericks", "posicion": "Ala-Pívot",
         "puntos_por_partido": 22.8,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
         "premios": []
     },
 
     {
-        "id": 15, "nombre": "Nikola Jokic", "equipo": "Nuggets", "posicion": "PÃ­vot",
+        "id": 15, "nombre": "Nikola Jokic", "equipo": "Nuggets", "posicion": "Pívot",
         "puntos_por_partido": 29.6,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
         "premios": []
@@ -112,7 +112,7 @@
         "premios": []
     },
     {
-        "id": 18, "nombre": "Jalen Duren", "equipo": "Pistons", "posicion": "PÃ­vot",
+        "id": 18, "nombre": "Jalen Duren", "equipo": "Pistons", "posicion": "Pívot",
         "puntos_por_partido": 14.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png",
         "premios": []
@@ -125,7 +125,7 @@
         "premios": []
     },
     {
-        "id": 20, "nombre": "Draymond Green", "equipo": "Warriors", "posicion": "Ala-PÃ­vot",
+        "id": 20, "nombre": "Draymond Green", "equipo": "Warriors", "posicion": "Ala-Pívot",
         "puntos_por_partido": 8.7,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png",
         "premios": []
@@ -138,7 +138,7 @@
         "premios": []
     },
     {
-        "id": 22, "nombre": "Alperen Sengun", "equipo": "Rockets", "posicion": "PÃ­vot",
+        "id": 22, "nombre": "Alperen Sengun", "equipo": "Rockets", "posicion": "Pívot",
         "puntos_por_partido": 21.5,
         "url_imagen": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png",
         "premios": []
@@ -152,7 +152,7 @@
         "premios": []
     },
     {
-        "id": 24, "nombre": "Pascal Siakam", "equipo": "Pacers", "posicion": "Ala-PÃ­vot",
+        "id": 24, "nombre": "Pascal Siakam", "equipo": "Pacers", "posicion": "Ala-Pívot",
         "puntos_por_partido": 21.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png",
         "premios": []
@@ -205,14 +205,14 @@
         "premios": []
     },
     {
-        "id": 32, "nombre": "Bam Adebayo", "equipo": "Heat", "posicion": "PÃ­vot",
+        "id": 32, "nombre": "Bam Adebayo", "equipo": "Heat", "posicion": "Pívot",
         "puntos_por_partido": 19.3,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png",
         "premios": []
     },
 
     {
-        "id": 33, "nombre": "Giannis Antetokounmpo", "equipo": "Bucks", "posicion": "Ala-PÃ­vot",
+        "id": 33, "nombre": "Giannis Antetokounmpo", "equipo": "Bucks", "posicion": "Ala-Pívot",
         "puntos_por_partido": 30.4,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
         "premios": []
@@ -232,14 +232,14 @@
         "premios": []
     },
     {
-        "id": 36, "nombre": "Rudy Gobert", "equipo": "Timberwolves", "posicion": "PÃ­vot",
+        "id": 36, "nombre": "Rudy Gobert", "equipo": "Timberwolves", "posicion": "Pívot",
         "puntos_por_partido": 12.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
         "premios": []
     },
 
     {
-        "id": 37, "nombre": "Zion Williamson", "equipo": "Pelicans", "posicion": "Ala-PÃ­vot",
+        "id": 37, "nombre": "Zion Williamson", "equipo": "Pelicans", "posicion": "Ala-Pívot",
         "puntos_por_partido": 22.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
         "premios": []
@@ -259,7 +259,7 @@
         "premios": []
     },
     {
-        "id": 40, "nombre": "Karl-Anthony Towns", "equipo": "Knicks", "posicion": "PÃ­vot",
+        "id": 40, "nombre": "Karl-Anthony Towns", "equipo": "Knicks", "posicion": "Pívot",
         "puntos_por_partido": 24.4,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png",
         "premios": []
@@ -270,13 +270,13 @@
         "id": 41, "nombre": "Shai Gilgeous-Alexander", "equipo": "Thunder", "posicion": "Base",
         "puntos_por_partido": 32.7,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png",
-        "premios": ["MVP", "CAMPEÃ“N"]
+        "premios": ["MVP", "CAMPEÓN"]
     },
     {
-        "id": 42, "nombre": "Chet Holmgren", "equipo": "Thunder", "posicion": "PÃ­vot",
+        "id": 42, "nombre": "Chet Holmgren", "equipo": "Thunder", "posicion": "Pívot",
         "puntos_por_partido": 16.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
-        "premios": ["CAMPEÃ“N"]
+        "premios": ["CAMPEÓN"]
     },
 
     {
@@ -286,7 +286,7 @@
         "premios": []
     },
     {
-        "id": 44, "nombre": "Paolo Banchero", "equipo": "Magic", "posicion": "Ala-PÃ­vot",
+        "id": 44, "nombre": "Paolo Banchero", "equipo": "Magic", "posicion": "Ala-Pívot",
         "puntos_por_partido": 22.6,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
         "premios": []
@@ -294,7 +294,7 @@
 
 
     {
-        "id": 45, "nombre": "Joel Embiid", "equipo": "76ers", "posicion": "PÃ­vot",
+        "id": 45, "nombre": "Joel Embiid", "equipo": "76ers", "posicion": "Pívot",
         "puntos_por_partido": 24.4,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
         "premios": []
@@ -334,7 +334,7 @@
 
 
     {
-        "id": 51, "nombre": "Domantas Sabonis", "equipo": "Kings", "posicion": "PÃ­vot",
+        "id": 51, "nombre": "Domantas Sabonis", "equipo": "Kings", "posicion": "Pívot",
         "puntos_por_partido": 21.5,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
         "premios": []
@@ -348,7 +348,7 @@
 
 
     {
-        "id": 53, "nombre": "Victor Wembanyama", "equipo": "Spurs", "posicion": "PÃ­vot",
+        "id": 53, "nombre": "Victor Wembanyama", "equipo": "Spurs", "posicion": "Pívot",
         "puntos_por_partido": 24.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png",
         "premios": []
@@ -393,7 +393,7 @@
         "premios": []
     },
     {
-        "id": 60, "nombre": "Kyle Kuzma", "equipo": "Wizards", "posicion": "Ala-PÃ­vot",
+        "id": 60, "nombre": "Kyle Kuzma", "equipo": "Wizards", "posicion": "Ala-Pívot",
         "puntos_por_partido": 20.0,
         "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png",
         "premios": []
