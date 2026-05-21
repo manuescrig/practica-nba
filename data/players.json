@@ -1,0 +1,403 @@
+﻿[
+
+    {
+        "id": 1, "nombre": "Trae Young", "equipo": "Hawks", "posicion": "Base",
+        "puntos_por_partido": 24.2,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+        "premios": []
+    },
+    {
+        "id": 2, "nombre": "Dyson Daniels", "equipo": "Hawks", "posicion": "Escolta",
+        "puntos_por_partido": 12.7,
+        "url_imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4869342.png",
+        "premios": ["MIP"]
+    },
+
+    {
+        "id": 3, "nombre": "Jayson Tatum", "equipo": "Celtics", "posicion": "Alero",
+        "puntos_por_partido": 26.8,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png",
+        "premios": []
+    },
+    {
+        "id": 4, "nombre": "Payton Pritchard", "equipo": "Celtics", "posicion": "Base",
+        "puntos_por_partido": 16.1,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png",
+        "premios": ["SMOY"]
+    },
+
+    {
+        "id": 5, "nombre": "Cam Thomas", "equipo": "Nets", "posicion": "Escolta",
+        "puntos_por_partido": 24.0,
+        "url_imagen": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630560.png",
+        "premios": []
+    },
+    {
+        "id": 6, "nombre": "Nic Claxton", "equipo": "Nets", "posicion": "PÃ­vot",
+        "puntos_por_partido": 12.3,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png",
+        "premios": []
+    },
+
+    {
+        "id": 7, "nombre": "LaMelo Ball", "equipo": "Hornets", "posicion": "Base",
+        "puntos_por_partido": 22.9,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png",
+        "premios": []
+    },
+    {
+        "id": 8, "nombre": "Brandon Miller", "equipo": "Hornets", "posicion": "Alero",
+        "puntos_por_partido": 18.1,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641771.png",
+        "premios": []
+    },
+
+    {
+        "id": 9, "nombre": "Zach LaVine", "equipo": "Bulls", "posicion": "Escolta",
+        "puntos_por_partido": 23.3,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png",
+        "premios": []
+    },
+    {
+        "id": 10, "nombre": "Nikola Vucevic", "equipo": "Bulls", "posicion": "PÃ­vot",
+        "puntos_por_partido": 16.5,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png",
+        "premios": []
+    },
+
+    {
+        "id": 11, "nombre": "Donovan Mitchell", "equipo": "Cavaliers", "posicion": "Escolta",
+        "puntos_por_partido": 24.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png",
+        "premios": []
+    },
+    {
+        "id": 12, "nombre": "Evan Mobley", "equipo": "Cavaliers", "posicion": "PÃ­vot",
+        "puntos_por_partido": 18.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png",
+        "premios": ["DPOY"]
+    },
+
+
+    {
+        "id": 13, "nombre": "Kyrie Irving", "equipo": "Mavericks", "posicion": "Base",
+        "puntos_por_partido": 24.5,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png",
+        "premios": []
+    },
+    {
+        "id": 14, "nombre": "Anthony Davis", "equipo": "Mavericks", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 22.8,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png",
+        "premios": []
+    },
+
+    {
+        "id": 15, "nombre": "Nikola Jokic", "equipo": "Nuggets", "posicion": "PÃ­vot",
+        "puntos_por_partido": 29.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png",
+        "premios": []
+    },
+    {
+        "id": 16, "nombre": "Jamal Murray", "equipo": "Nuggets", "posicion": "Base",
+        "puntos_por_partido": 19.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png",
+        "premios": []
+    },
+
+    {
+        "id": 17, "nombre": "Cade Cunningham", "equipo": "Pistons", "posicion": "Base",
+        "puntos_por_partido": 26.1,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png",
+        "premios": []
+    },
+    {
+        "id": 18, "nombre": "Jalen Duren", "equipo": "Pistons", "posicion": "PÃ­vot",
+        "puntos_por_partido": 14.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png",
+        "premios": []
+    },
+
+    {
+        "id": 19, "nombre": "Stephen Curry", "equipo": "Warriors", "posicion": "Base",
+        "puntos_por_partido": 24.5,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+        "premios": []
+    },
+    {
+        "id": 20, "nombre": "Draymond Green", "equipo": "Warriors", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 8.7,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png",
+        "premios": []
+    },
+
+    {
+        "id": 21, "nombre": "Jalen Green", "equipo": "Rockets", "posicion": "Escolta",
+        "puntos_por_partido": 22.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png",
+        "premios": []
+    },
+    {
+        "id": 22, "nombre": "Alperen Sengun", "equipo": "Rockets", "posicion": "PÃ­vot",
+        "puntos_por_partido": 21.5,
+        "url_imagen": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1630578.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 23, "nombre": "Tyrese Haliburton", "equipo": "Pacers", "posicion": "Base",
+        "puntos_por_partido": 20.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png",
+        "premios": []
+    },
+    {
+        "id": 24, "nombre": "Pascal Siakam", "equipo": "Pacers", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 21.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png",
+        "premios": []
+    },
+
+    {
+        "id": 25, "nombre": "James Harden", "equipo": "Clippers", "posicion": "Escolta",
+        "puntos_por_partido": 22.8,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png",
+        "premios": []
+    },
+    {
+        "id": 26, "nombre": "Kawhi Leonard", "equipo": "Clippers", "posicion": "Alero",
+        "puntos_por_partido": 20.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 27, "nombre": "LeBron James", "equipo": "Lakers", "posicion": "Alero",
+        "puntos_por_partido": 24.4,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+        "premios": []
+    },
+    {
+        "id": 28, "nombre": "Luka Doncic", "equipo": "Lakers", "posicion": "Base",
+        "puntos_por_partido": 27.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png",
+        "premios": []
+    },
+
+    {
+        "id": 29, "nombre": "Ja Morant", "equipo": "Grizzlies", "posicion": "Base",
+        "puntos_por_partido": 22.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png",
+        "premios": []
+    },
+    {
+        "id": 30, "nombre": "Desmond Bane", "equipo": "Grizzlies", "posicion": "Escolta",
+        "puntos_por_partido": 20.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png",
+        "premios": []
+    },
+
+    {
+        "id": 31, "nombre": "Tyler Herro", "equipo": "Heat", "posicion": "Escolta",
+        "puntos_por_partido": 23.9,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png",
+        "premios": []
+    },
+    {
+        "id": 32, "nombre": "Bam Adebayo", "equipo": "Heat", "posicion": "PÃ­vot",
+        "puntos_por_partido": 19.3,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png",
+        "premios": []
+    },
+
+    {
+        "id": 33, "nombre": "Giannis Antetokounmpo", "equipo": "Bucks", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 30.4,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png",
+        "premios": []
+    },
+    {
+        "id": 34, "nombre": "Damian Lillard", "equipo": "Bucks", "posicion": "Base",
+        "puntos_por_partido": 24.9,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 35, "nombre": "Anthony Edwards", "equipo": "Timberwolves", "posicion": "Escolta",
+        "puntos_por_partido": 27.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png",
+        "premios": []
+    },
+    {
+        "id": 36, "nombre": "Rudy Gobert", "equipo": "Timberwolves", "posicion": "PÃ­vot",
+        "puntos_por_partido": 12.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png",
+        "premios": []
+    },
+
+    {
+        "id": 37, "nombre": "Zion Williamson", "equipo": "Pelicans", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 22.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png",
+        "premios": []
+    },
+    {
+        "id": 38, "nombre": "CJ McCollum", "equipo": "Pelicans", "posicion": "Escolta",
+        "puntos_por_partido": 18.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 39, "nombre": "Jalen Brunson", "equipo": "Knicks", "posicion": "Base",
+        "puntos_por_partido": 26.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png",
+        "premios": []
+    },
+    {
+        "id": 40, "nombre": "Karl-Anthony Towns", "equipo": "Knicks", "posicion": "PÃ­vot",
+        "puntos_por_partido": 24.4,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 41, "nombre": "Shai Gilgeous-Alexander", "equipo": "Thunder", "posicion": "Base",
+        "puntos_por_partido": 32.7,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png",
+        "premios": ["MVP", "CAMPEÃ“N"]
+    },
+    {
+        "id": 42, "nombre": "Chet Holmgren", "equipo": "Thunder", "posicion": "PÃ­vot",
+        "puntos_por_partido": 16.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png",
+        "premios": ["CAMPEÃ“N"]
+    },
+
+    {
+        "id": 43, "nombre": "Franz Wagner", "equipo": "Magic", "posicion": "Alero",
+        "puntos_por_partido": 24.1,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png",
+        "premios": []
+    },
+    {
+        "id": 44, "nombre": "Paolo Banchero", "equipo": "Magic", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 22.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 45, "nombre": "Joel Embiid", "equipo": "76ers", "posicion": "PÃ­vot",
+        "puntos_por_partido": 24.4,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png",
+        "premios": []
+    },
+    {
+        "id": 46, "nombre": "Paul George", "equipo": "76ers", "posicion": "Alero",
+        "puntos_por_partido": 19.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+        "premios": []
+    },
+
+    {
+        "id": 47, "nombre": "Kevin Durant", "equipo": "Suns", "posicion": "Alero",
+        "puntos_por_partido": 26.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png",
+        "premios": []
+    },
+    {
+        "id": 48, "nombre": "Devin Booker", "equipo": "Suns", "posicion": "Escolta",
+        "puntos_por_partido": 25.6,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png",
+        "premios": []
+    },
+
+    {
+        "id": 49, "nombre": "Anfernee Simons", "equipo": "Trail Blazers", "posicion": "Escolta",
+        "puntos_por_partido": 22.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png",
+        "premios": []
+    },
+    {
+        "id": 50, "nombre": "Scoot Henderson", "equipo": "Trail Blazers", "posicion": "Base",
+        "puntos_por_partido": 14.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641706.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 51, "nombre": "Domantas Sabonis", "equipo": "Kings", "posicion": "PÃ­vot",
+        "puntos_por_partido": 21.5,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png",
+        "premios": []
+    },
+    {
+        "id": 52, "nombre": "Keegan Murray", "equipo": "Kings", "posicion": "Alero",
+        "puntos_por_partido": 20.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png",
+        "premios": []
+    },
+
+
+    {
+        "id": 53, "nombre": "Victor Wembanyama", "equipo": "Spurs", "posicion": "PÃ­vot",
+        "puntos_por_partido": 24.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png",
+        "premios": []
+    },
+    {
+        "id": 54, "nombre": "Stephon Castle", "equipo": "Spurs", "posicion": "Base",
+        "puntos_por_partido": 14.0,
+        "url_imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4845367.png",
+        "premios": ["ROY"]
+    },
+
+    {
+        "id": 55, "nombre": "Scottie Barnes", "equipo": "Raptors", "posicion": "Alero",
+        "puntos_por_partido": 21.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png",
+        "premios": []
+    },
+    {
+        "id": 56, "nombre": "Immanuel Quickley", "equipo": "Raptors", "posicion": "Escolta",
+        "puntos_por_partido": 19.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png",
+        "premios": []
+    },
+
+    {
+        "id": 57, "nombre": "Lauri Markkanen", "equipo": "Jazz", "posicion": "Alero",
+        "puntos_por_partido": 23.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+        "premios": []
+    },
+    {
+        "id": 58, "nombre": "Collin Sexton", "equipo": "Jazz", "posicion": "Base",
+        "puntos_por_partido": 18.7,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png",
+        "premios": []
+    },
+
+    {
+        "id": 59, "nombre": "Jordan Poole", "equipo": "Wizards", "posicion": "Escolta",
+        "puntos_por_partido": 17.4,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png",
+        "premios": []
+    },
+    {
+        "id": 60, "nombre": "Kyle Kuzma", "equipo": "Wizards", "posicion": "Ala-PÃ­vot",
+        "puntos_por_partido": 20.0,
+        "url_imagen": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png",
+        "premios": []
+    }
+]
+
+

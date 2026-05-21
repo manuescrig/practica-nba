@@ -1,0 +1,50 @@
+[
+    {
+        "tipo":    "MVP",
+        "emoji":   "🏆",
+        "desc":    "Jugador Más Valioso",
+        "nombre":  "Shai Gilgeous-Alexander",
+        "equipo":  "Thunder",
+        "foto":    "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png"
+    },
+    {
+        "tipo":    "CAMPEÓN",
+        "emoji":   "🥇",
+        "desc":    "Campeones NBA (Finals MVP)",
+        "nombre":  "Shai Gilgeous-Alexander",
+        "equipo":  "Thunder",
+        "foto":    "https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png"
+    },
+    {
+        "tipo":    "DPOY",
+        "emoji":   "🛡️",
+        "desc":    "Mejor Defensor",
+        "nombre":  "Evan Mobley",
+        "equipo":  "Cavaliers",
+        "foto":    "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+    },
+    {
+        "tipo":    "ROY",
+        "emoji":   "⭐",
+        "desc":    "Mejor Novato (Rookie del Año)",
+        "nombre":  "Stephon Castle",
+        "equipo":  "Spurs",
+        "foto":    "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4845367.png"
+    },
+    {
+        "tipo":    "MIP",
+        "emoji":   "📈",
+        "desc":    "Jugador Más Mejorado",
+        "nombre":  "Dyson Daniels",
+        "equipo":  "Hawks",
+        "foto":    "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4869342.png"
+    },
+    {
+        "tipo":    "SMOY",
+        "emoji":   "💪",
+        "desc":    "Mejor Sexto Hombre",
+        "nombre":  "Payton Pritchard",
+        "equipo":  "Celtics",
+        "foto":    "https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png"
+    }
+]

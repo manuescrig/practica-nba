@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Directorio NBA 2024-25 | Jugadores y Premios</title>
+    <meta name="description" content="Directorio actualizado de la NBA temporada 2024-25 con los mejores jugadores de cada equipo, premios de la temporada y estadísticas finales.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- ===== CABECERA ===== -->
+    <header>
+        <div class="header-content">
+            <div class="header-brand">
+                <span class="logo-icon">🏀</span>
+                <div>
+                    <h1>Directorio NBA</h1>
+                    <p class="header-subtitle">Temporada Regular 2024-25 · Datos Oficiales Finales</p>
+                </div>
+            </div>
+            <div class="stats-panel">
+                <div class="stat-box">
+                    <span class="stat-number" id="statTotal">60</span>
+                    <span class="stat-label">Jugadores</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-number" id="statAvgPPP">--</span>
+                    <span class="stat-label">PPP Promedio</span>
+                </div>
+                <div class="stat-box">
+                    <span class="stat-number" id="statMaxPPP">--</span>
+                    <span class="stat-label">Máx. PPP</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== FILTROS ===== -->
+        <div class="filters">
+            <div class="filter-group">
+                <label for="searchInput">🔍 Buscar jugador</label>
+                <input type="text" id="searchInput" placeholder="Nombre del jugador...">
+            </div>
+            <div class="filter-group">
+                <label for="positionFilter">📋 Posición</label>
+                <select id="positionFilter">
+                    <option value="">Todas las posiciones</option>
+                    <option value="Base">Base</option>
+                    <option value="Escolta">Escolta</option>
+                    <option value="Alero">Alero</option>
+                    <option value="Ala-Pívot">Ala-Pívot</option>
+                    <option value="Pívot">Pívot</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="teamFilter">🏟️ Equipo</label>
+                <select id="teamFilter">
+                    <option value="">Todos los equipos</option>
+                    <option value="Hawks">Hawks</option>
+                    <option value="Celtics">Celtics</option>
+                    <option value="Nets">Nets</option>
+                    <option value="Hornets">Hornets</option>
+                    <option value="Bulls">Bulls</option>
+                    <option value="Cavaliers">Cavaliers</option>
+                    <option value="Mavericks">Mavericks</option>
+                    <option value="Nuggets">Nuggets</option>
+                    <option value="Pistons">Pistons</option>
+                    <option value="Warriors">Warriors</option>
+                    <option value="Rockets">Rockets</option>
+                    <option value="Pacers">Pacers</option>
+                    <option value="Clippers">Clippers</option>
+                    <option value="Lakers">Lakers</option>
+                    <option value="Grizzlies">Grizzlies</option>
+                    <option value="Heat">Heat</option>
+                    <option value="Bucks">Bucks</option>
+                    <option value="Timberwolves">Timberwolves</option>
+                    <option value="Pelicans">Pelicans</option>
+                    <option value="Knicks">Knicks</option>
+                    <option value="Thunder">Thunder</option>
+                    <option value="Magic">Magic</option>
+                    <option value="76ers">76ers</option>
+                    <option value="Suns">Suns</option>
+                    <option value="Trail Blazers">Trail Blazers</option>
+                    <option value="Kings">Kings</option>
+                    <option value="Spurs">Spurs</option>
+                    <option value="Raptors">Raptors</option>
+                    <option value="Jazz">Jazz</option>
+                    <option value="Wizards">Wizards</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="sortFilter">⬆️ Ordenar por</label>
+                <select id="sortFilter">
+                    <option value="nombre_asc">Nombre (A-Z)</option>
+                    <option value="nombre_desc">Nombre (Z-A)</option>
+                    <option value="ppp_desc">Más anotador</option>
+                    <option value="ppp_asc">Menos anotador</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="premioFilter">🏆 Premio</label>
+                <select id="premioFilter">
+                    <option value="">Todos los jugadores</option>
+                    <option value="MVP">MVP (Shai G-A)</option>
+                    <option value="DPOY">DPOY (Evan Mobley)</option>
+                    <option value="ROY">Rookie del Año</option>
+                    <option value="MIP">Más Mejorado</option>
+                    <option value="SMOY">6º Hombre</option>
+                    <option value="CAMPEÓN">🏆 Campeón NBA</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="results-bar">
+            <span id="resultsCount">Mostrando 60 jugadores</span>
+            <button id="clearFiltersBtn" class="clear-btn">✕ Limpiar filtros</button>
+        </div>
+    </header>
+
+    <!-- ===== BANNER DE PREMIOS ===== -->
+    <section class="awards-section" id="awardsBanner">
+        <div class="awards-inner">
+            <h2 class="awards-title">🏆 Premios Temporada 2024-25</h2>
+            <div class="awards-grid" id="awardsGrid">
+                <!-- Generado dinámicamente por JS -->
+            </div>
+        </div>
+    </section>
+
+    <!-- ===== DIRECTORIO DE JUGADORES ===== -->
+    <main>
+        <div id="playersContainer" class="players-grid">
+            <!-- Tarjetas generadas dinámicamente desde JavaScript -->
+        </div>
+    </main>
+
+    <!-- ===== MODAL DE DETALLE ===== -->
+    <div id="playerModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalPlayerName">
+        <div class="modal-overlay" id="modalOverlay"></div>
+        <div class="modal-content">
+            <button class="modal-close" id="modalClose" aria-label="Cerrar modal">✕</button>
+            <div class="modal-body">
+                <img id="modalImage" src="" alt="" class="modal-image">
+                <div class="modal-info">
+                    <div id="modalAwardBanner" class="modal-award-banner" style="display:none"></div>
+                    <h2 id="modalPlayerName"></h2>
+                    <div class="modal-badges">
+                        <span class="badge badge-team"  id="modalTeam"></span>
+                        <span class="badge badge-pos"   id="modalPosition"></span>
+                    </div>
+                    <div class="modal-stats">
+                        <div class="modal-stat">
+                            <span class="modal-stat-value" id="modalPPP"></span>
+                            <span class="modal-stat-label">Puntos / partido</span>
+                        </div>
+                        <div class="modal-stat">
+                            <span class="modal-stat-value" id="modalRank"></span>
+                            <span class="modal-stat-label">Ranking anotador</span>
+                        </div>
+                    </div>
+                    <div style="margin-top: 15px; text-align: center;">
+                        <button id="modalEditBtn" class="edit-btn">Modificar Datos</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Práctica JavaScript + JSON · 1º DAW · Temporada NBA 2024-25 · Campeón: Oklahoma City Thunder 🏆</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
